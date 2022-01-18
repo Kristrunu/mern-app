@@ -1,4 +1,4 @@
-# MERN Stack
+# MERN Stack and REST API
 
-This is my project for Module 5 - Back-end - NoSQL in the cloud.
-I used the tutorial from Smári to build this MERN stack.
+This is my CRUD application project for Module 5.
+
